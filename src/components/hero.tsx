@@ -7,7 +7,7 @@ function Hero() {
     <section className="container my-40 flex items-center justify-between">
       <div>
         <div className="mb-7 flex flex-col gap-2">
-          <h2 className="text-7xl font-bold tracking-wide">I'm Auzan</h2>
+          <h2 className="text-7xl font-bold tracking-wide"></h2>
           <p className="text-2xl tracking-wide">fullstack web developer</p>
         </div>
         <Button>Hire me</Button>
